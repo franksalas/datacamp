@@ -18,7 +18,7 @@ These are the courses Im currently working on
 [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
 - [x] Fundamental data types
 - [x] Dictionaries - the root of Python
-- [ ] Meet the collections module
+- [x] Meet the collections module
 - [ ] Handling Dates and Times
 - [ ] Answering Data Science Questions
 
