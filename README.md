@@ -27,3 +27,10 @@ Start/finish: 1/30/18 - 2/1/18
 - [x] Handling Dates and Times
 - [x] Answering Data Science Questions
 
+### [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+
+- [ ] Customizing plots
+- [ ] Plotting 2D arrays
+- [ ] Statistical plots with Seaborn
+- [ ] Analyzing time series and images
+
