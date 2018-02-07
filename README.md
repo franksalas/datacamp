@@ -16,11 +16,12 @@ Only if are downloading them to your system.
 1. change directory
 ```bash
 cd datacamp
+
 ```
 
 2. Create a conda  enviroment with `spec-file.txt`
 
-```python
+```bash
 conda create --name datacamp --file spec-file.txt
 ```
 
@@ -40,8 +41,8 @@ Start/finish: 1/30/18 - 2/1/18
 
 ### [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 
-- [ ] Customizing plots
-- [ ] Plotting 2D arrays
-- [ ] Statistical plots with Seaborn
-- [ ] Analyzing time series and images
+- [x] 01 Customizing plots
+- [ ] 02 Plotting 2D arrays
+- [ ] 03 Statistical plots with Seaborn
+- [ ] 04 Analyzing time series and images
 
