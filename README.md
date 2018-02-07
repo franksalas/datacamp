@@ -13,6 +13,17 @@ Only if are downloading them to your system.
 - Python enviroment
 - Jupyter notebook
 
+1. change directory
+```bash
+cd datacamp
+```
+
+2. Create a conda  enviroment with `spec-file.txt`
+
+```python
+conda create --name datacamp --file spec-file.txt
+```
+
 
 ## Couses
 These are the courses Im currently working on.
