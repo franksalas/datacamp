@@ -42,7 +42,7 @@ Start/finish: 1/30/18 - 2/1/18
 ### [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 
 - [x] 01 Customizing plots
-- [ ] 02 Plotting 2D arrays
+- [x] 02 Plotting 2D arrays
 - [ ] 03 Statistical plots with Seaborn
 - [ ] 04 Analyzing time series and images
 
