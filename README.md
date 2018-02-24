@@ -47,3 +47,9 @@ Finish 2/14/18
 - [x] 03 Statistical plots with Seaborn
 - [X] 04 Analyzing time series and images
 
+### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
+
+- [x] Data ingestion & instpection
+- [ ] Exploratory data analysis
+- [ ] Time series in pandas
+- [ ] Case Study - Sunlight in Austin
