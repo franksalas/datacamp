@@ -50,6 +50,6 @@ Finish 2/14/18
 ### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 
 - [x] Data ingestion & instpection
-- [ ] Exploratory data analysis
+- [x] Exploratory data analysis
 - [ ] Time series in pandas
 - [ ] Case Study - Sunlight in Austin
