@@ -44,22 +44,5 @@ Start/finish: 1/30/18 - 2/1/18
 Finish 2/14/18
 - [x] 01 Customizing plots
 - [x] 02 Plotting 2D arrays
-- [x] 03 Statistical plots with Seaborn
-- [X] 04 Analyzing time series and images
-
-### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-
-Finish 3/6/18
-- [x] Data ingestion & instpection
-- [x] Exploratory data analysis
-- [x] Time series in pandas
-- [x] Case Study - Sunlight in Austin
-
-
-### [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-
-- [x] Extracting and transforming data
-- [ ] Advanced indexing
-- [ ] Rearranging and reshaping data
-- [ ] Grouping data
-- [ ] Bringing it all together
+- [ ] 03 Statistical plots with Seaborn
+- [ ] 04 Analyzing time series and images
