@@ -49,7 +49,17 @@ Finish 2/14/18
 
 ### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 
+Finish 3/6/18
 - [x] Data ingestion & instpection
-- [ ] Exploratory data analysis
-- [ ] Time series in pandas
-- [ ] Case Study - Sunlight in Austin
+- [x] Exploratory data analysis
+- [x] Time series in pandas
+- [x] Case Study - Sunlight in Austin
+
+
+### [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+
+- [x] Extracting and transforming data
+- [ ] Advanced indexing
+- [ ] Rearranging and reshaping data
+- [ ] Grouping data
+- [ ] Bringing it all together
