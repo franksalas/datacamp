@@ -68,8 +68,7 @@ Finish 3/6/18
 - [ ] Bringing it all together
 
 
-### [Interactive Data Visualization with Bokeh
-](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+### [Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 
 - [x] Basic plotting with Bokeh
 - [x] Layouts, Interactions, and Annotations
