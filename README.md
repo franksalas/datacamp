@@ -49,6 +49,8 @@ Finish 2/14/18
 - [x] 03 Statistical plots with Seaborn
 - [X] 04 Analyzing time series and images
 
+---
+
 
 ### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)	
 
@@ -60,13 +62,60 @@ Finish 3/6/18
 
 
 ### [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-
+Finish 03/08/18
 - [x] Extracting and transforming data
 - [x] Advanced indexing
 - [x] Rearranging and reshaping data
-- [ ] Grouping data
-- [ ] Bringing it all together
+- [x] Grouping data
+- [x] Bringing it all together
 
+
+### [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+
+- [ ] Preparing data
+- [ ] Concatenating data
+- [ ] Merging data
+- [ ] Case Study - Summer Olympics
+
+
+### [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+
+- [ ] Exploring your data
+- [ ] Tidying data for analysis
+- [ ] Combining data for analysis
+- [ ] Cleaning data for analysis
+- [ ] Case study
+
+
+---
+
+### [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+
+- [x] Using iterators in PythonLand
+- [x] List comprehensions and generators
+- [ ] Bringing it all together!
+
+
+
+### [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+
+- [x] Introduction and flat files
+- [ ] Importing data from other file types
+- [ ] Working with relational databases in Python
+
+
+
+### [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+
+- [ ] Importing data from the Internet
+- [ ] Interacting with APIs to import data from the web
+- [ ] Diving deep into the Twitter API
+
+
+
+
+
+---
 
 ### [Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 
