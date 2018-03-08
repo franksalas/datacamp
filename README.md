@@ -19,10 +19,11 @@ Only if are downloading them to your system.
 cd datacamp
 ```
 
-2. Create a conda  enviroment with `spec-file.txt`
+2. Create a conda  enviroment with `environment.yml`
 
 ```bash
-conda create --name datacamp --file spec-file.txt
+conda env create -f environment.yml -n $ENV_NAME
+
 ```
 
 
@@ -65,3 +66,12 @@ Finish 3/6/18
 - [x] Rearranging and reshaping data
 - [ ] Grouping data
 - [ ] Bringing it all together
+
+
+### [Interactive Data Visualization with Bokeh
+](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+
+- [x] Basic plotting with Bokeh
+- [x] Layouts, Interactions, and Annotations
+- [ ] Building interactive apps with Bokeh
+- [ ] Putting It All Together! A Case Study
