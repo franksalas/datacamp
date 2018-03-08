@@ -39,6 +39,7 @@ Start/finish: 1/30/18 - 2/1/18
 - [x] Handling Dates and Times
 - [x] Answering Data Science Questions
 
+
 ### [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 
 Finish 2/14/18
@@ -57,12 +58,10 @@ Finish 3/6/18
 - [x] Case Study - Sunlight in Austin
 
 
-
-
 ### [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
 
 - [x] Extracting and transforming data
-- [ ] Advanced indexing
-- [ ] Rearranging and reshaping data
+- [x] Advanced indexing
+- [x] Rearranging and reshaping data
 - [ ] Grouping data
 - [ ] Bringing it all together
