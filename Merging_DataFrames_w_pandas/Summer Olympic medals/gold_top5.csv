@@ -1,6 +1,6 @@
-Country,Total
-United States,2088.0
-Soviet Union,838.0
-United Kingdom,498.0
-Italy,460.0
-Germany,407.0
+NOC,Country,Total
+USA,United States,2088
+URS,Soviet Union,838
+GBR,United Kingdom,498
+FRA,Italy,460
+GER,Germany,407
