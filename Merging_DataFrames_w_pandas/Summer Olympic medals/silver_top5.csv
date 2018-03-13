@@ -1,6 +1,6 @@
-Country,Total
-United States,1195.0
-Soviet Union,627.0
-United Kingdom,591.0
-France,461.0
-Italy,394.0
+NOC,Country,Total
+USA,United States,1195
+USR,Soviet Union,627
+GBR,United Kingdom,591
+FRA,France,461
+ITA,Italy,394

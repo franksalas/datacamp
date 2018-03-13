@@ -71,11 +71,11 @@ Finish 03/08/18
 
 
 ### [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-
-- [ ] Preparing data
-- [ ] Concatenating data
-- [ ] Merging data
-- [ ] Case Study - Summer Olympics
+Finish 03/13/18
+- [x] Preparing data
+- [x] Concatenating data
+- [x] Merging data
+- [x] Case Study - Summer Olympics
 
 
 ### [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
