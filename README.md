@@ -79,12 +79,12 @@ Finish 03/13/18
 
 
 ### [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-
-- [ ] Exploring your data
-- [ ] Tidying data for analysis
-- [ ] Combining data for analysis
-- [ ] Cleaning data for analysis
-- [ ] Case study
+finish 03/16/18
+- [x] Exploring your data
+- [x] Tidying data for analysis
+- [x] Combining data for analysis
+- [x] Cleaning data for analysis
+- [x] Case study
 
 
 ---
