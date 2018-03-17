@@ -93,7 +93,7 @@ finish 03/16/18
 
 - [x] Using iterators in PythonLand
 - [x] List comprehensions and generators
-- [ ] Bringing it all together!
+- [x] Bringing it all together!
 
 
 
