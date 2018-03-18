@@ -90,7 +90,7 @@ finish 03/16/18
 ---
 
 ### [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-
+finish 03/17/18
 - [x] Using iterators in PythonLand
 - [x] List comprehensions and generators
 - [x] Bringing it all together!
@@ -98,10 +98,10 @@ finish 03/16/18
 
 
 ### [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-
+finish 03/17/18
 - [x] Introduction and flat files
-- [ ] Importing data from other file types
-- [ ] Working with relational databases in Python
+- [x] Importing data from other file types
+- [x] Working with relational databases in Python
 
 
 
