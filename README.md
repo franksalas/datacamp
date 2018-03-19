@@ -106,10 +106,10 @@ finish 03/17/18
 
 
 ### [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-
-- [ ] Importing data from the Internet
-- [ ] Interacting with APIs to import data from the web
-- [ ] Diving deep into the Twitter API
+finish 03/18/18
+- [x] Importing data from the Internet
+- [x] Interacting with APIs to import data from the web
+- [x] Diving deep into the Twitter API
 
 
 
