@@ -90,26 +90,26 @@ finish 03/16/18
 ---
 
 ### [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-
+finish 03/17/18
 - [x] Using iterators in PythonLand
 - [x] List comprehensions and generators
-- [ ] Bringing it all together!
+- [x] Bringing it all together!
 
 
 
 ### [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-
+finish 03/17/18
 - [x] Introduction and flat files
-- [ ] Importing data from other file types
-- [ ] Working with relational databases in Python
+- [x] Importing data from other file types
+- [x] Working with relational databases in Python
 
 
 
 ### [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-
-- [ ] Importing data from the Internet
-- [ ] Interacting with APIs to import data from the web
-- [ ] Diving deep into the Twitter API
+finish 03/18/18
+- [x] Importing data from the Internet
+- [x] Interacting with APIs to import data from the web
+- [x] Diving deep into the Twitter API
 
 
 
