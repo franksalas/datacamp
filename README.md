@@ -123,3 +123,14 @@ finish 03/18/18
 - [x] Layouts, Interactions, and Annotations
 - [ ] Building interactive apps with Bokeh
 - [ ] Putting It All Together! A Case Study
+
+
+
+### [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+finish 03/23/18
+- [x] Basics of Relational Databases
+- [x] Applying Filtering, Ordering and Grouping to Queries
+- [x] Advanced SQLAlchemy Queries
+- [x] Creating and Manipulating your own Databases
+- [x] Putting it all together!
