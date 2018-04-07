@@ -134,3 +134,12 @@ finish 03/23/18
 - [x] Advanced SQLAlchemy Queries
 - [x] Creating and Manipulating your own Databases
 - [x] Putting it all together!
+
+
+
+### [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
+- [x] Introduction
+- [x] Summary Statistics and Diagnostics
+- [ ] Seasonality, Trend and Noise
+- [ ] Work with Multiple Time Series
+- [ ] Case Study
