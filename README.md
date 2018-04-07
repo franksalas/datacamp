@@ -1,6 +1,9 @@
 
 # Datacamp 
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/franksalas/datacamp/master)
+
+
 My notes on [Datacamp](https://www.datacamp.com) courses.
 They are markdown duplicates (on jupyter notebooks) of the lecutres along with  *my* solution to each problem.
 
