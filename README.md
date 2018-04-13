@@ -138,6 +138,13 @@ finish 03/23/18
 - [x] Creating and Manipulating your own Databases
 - [x] Putting it all together!
 
+### [Statistical Thinking in Python (Part 1)
+](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+- [x] Graphical exploratory data analysis
+- [x] Quantitative exploratory data analysis
+- [ ] Thinking probabilistically-- Discrete variables
+- [ ] Work with Multiple Time Series
+- [ ] Thinking probabilistically-- Continuous variables
 
 
 ### [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
