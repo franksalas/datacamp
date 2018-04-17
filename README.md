@@ -138,13 +138,23 @@ finish 03/23/18
 - [x] Creating and Manipulating your own Databases
 - [x] Putting it all together!
 
-### [Statistical Thinking in Python (Part 1)
-](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+### [Statistical Thinking in Python (Part 1) ](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [x] Graphical exploratory data analysis
 - [x] Quantitative exploratory data analysis
 - [x] Thinking probabilistically-- Discrete variables
 - [x] Work with Multiple Time Series
 - [x] Thinking probabilistically-- Continuous variables
+### [Statistical Thinking in Python (Part 1) ](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+- [ ] Parameter estimation by optimization
+- [ ] Bootstrap confidence intervals
+- [ ] Introduction to hypothesis testing
+- [ ] Hypothesis test examples
+- [ ] Putting it all together: a case study
+
+
+
+
+
 
 
 ### [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
