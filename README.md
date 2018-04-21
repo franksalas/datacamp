@@ -145,8 +145,8 @@ finish 03/23/18
 - [x] Work with Multiple Time Series
 - [x] Thinking probabilistically-- Continuous variables
 ### [Statistical Thinking in Python (Part 1) ](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
-- [ ] Parameter estimation by optimization
-- [ ] Bootstrap confidence intervals
+- [x] Parameter estimation by optimization
+- [x] Bootstrap confidence intervals
 - [ ] Introduction to hypothesis testing
 - [ ] Hypothesis test examples
 - [ ] Putting it all together: a case study
