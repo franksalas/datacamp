@@ -116,8 +116,6 @@ finish 03/18/18
 
 
 
-
-
 ---
 
 ### [Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
@@ -147,12 +145,16 @@ finish 03/23/18
 ### [Statistical Thinking in Python (Part 1) ](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 - [x] Parameter estimation by optimization
 - [x] Bootstrap confidence intervals
-- [ ] Introduction to hypothesis testing
-- [ ] Hypothesis test examples
-- [ ] Putting it all together: a case study
+- [x] Introduction to hypothesis testing
+- [x] Hypothesis test examples
+- [x] Putting it all together: a case study
 
 
-
+### [Supervised Learning with scikit-learn ](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [x] Classification
+- [x] Regression
+- [ ] Fine-tuning your model
+- [ ] Preprocessing and pipelines
 
 
 
