@@ -165,3 +165,17 @@ finish 03/23/18
 - [ ] Seasonality, Trend and Noise
 - [ ] Work with Multiple Time Series
 - [ ] Case Study
+
+
+### [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [x] Selecting Columns
+- [x] Filtering rows
+- [x] Aggregate Functions
+- [x] Sortin, grouping and joins
+
+
+### [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [x] Introduction to joins
+- [ ] Outer joins and cross joins
+- [ ] Set theory clauses
+- [ ] Subqueries
