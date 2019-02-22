@@ -30,13 +30,12 @@ conda env create -f environment.yml -n $ENV_NAME
 ```
 
 
-## Couses
+## Courses
 These are the courses Im currently working on.
 
 
 ### [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
 
-Start/finish: 1/30/18 - 2/1/18
 - [x] Fundamental data types
 - [x] Dictionaries - the root of Python
 - [x] Meet the collections module
@@ -46,7 +45,6 @@ Start/finish: 1/30/18 - 2/1/18
 
 ### [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 
-Finish 2/14/18
 - [x] 01 Customizing plots
 - [x] 02 Plotting 2D arrays
 - [x] 03 Statistical plots with Seaborn
@@ -57,7 +55,6 @@ Finish 2/14/18
 
 ### [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)	
 
-Finish 3/6/18	
 - [x] Data ingestion & instpection	
 - [x] Exploratory data analysis	
 - [x] Time series in pandas	
@@ -65,7 +62,6 @@ Finish 3/6/18
 
 
 ### [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-Finish 03/08/18
 - [x] Extracting and transforming data
 - [x] Advanced indexing
 - [x] Rearranging and reshaping data
@@ -74,7 +70,6 @@ Finish 03/08/18
 
 
 ### [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-Finish 03/13/18
 - [x] Preparing data
 - [x] Concatenating data
 - [x] Merging data
@@ -82,7 +77,6 @@ Finish 03/13/18
 
 
 ### [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-finish 03/16/18
 - [x] Exploring your data
 - [x] Tidying data for analysis
 - [x] Combining data for analysis
@@ -93,7 +87,6 @@ finish 03/16/18
 ---
 
 ### [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-finish 03/17/18
 - [x] Using iterators in PythonLand
 - [x] List comprehensions and generators
 - [x] Bringing it all together!
@@ -101,7 +94,6 @@ finish 03/17/18
 
 
 ### [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-finish 03/17/18
 - [x] Introduction and flat files
 - [x] Importing data from other file types
 - [x] Working with relational databases in Python
@@ -109,7 +101,6 @@ finish 03/17/18
 
 
 ### [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-finish 03/18/18
 - [x] Importing data from the Internet
 - [x] Interacting with APIs to import data from the web
 - [x] Diving deep into the Twitter API
@@ -129,7 +120,6 @@ finish 03/18/18
 
 ### [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
-finish 03/23/18
 - [x] Basics of Relational Databases
 - [x] Applying Filtering, Ordering and Grouping to Queries
 - [x] Advanced SQLAlchemy Queries
