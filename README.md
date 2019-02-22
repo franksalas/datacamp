@@ -1,12 +1,14 @@
 
-# Datacamp 
+# Datacamp  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/franksalas/datacamp/master)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/franksalas/datacamp/master)
+---
+
 
 
 My notes on [Datacamp](https://www.datacamp.com) courses.
 They are markdown duplicates (on jupyter notebooks) of the lecutres along with  *my* solution to each problem.
 
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/K3K4QVF2)
 
 ## Getting Started
 They can be viewed on github or download them.
